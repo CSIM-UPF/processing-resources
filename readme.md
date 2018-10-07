@@ -6,7 +6,7 @@ Resources for students who wish to learn about Processing.
 ## Software
 
 - [Processing IDE](https://processing.org/download/): Download the self-contained software from the official foundation's site. No experience required.
-- [Processing extension for Visual Studio Code](https://github.com/TobiahZ/processing-vscode): An extension that adds Processing language support to the [VS Code editor](https://code.visualstudio.com/). Experience of integrated development environments (IDE) required.
+- [Processing extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Tobiah.language-pde): An extension that adds Processing language support to the [VS Code editor](https://code.visualstudio.com/). Experience of integrated development environments (IDE) required.
 
 
 ## Tutorials and Examples
