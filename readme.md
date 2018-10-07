@@ -20,6 +20,7 @@ Resources for students who wish to learn about Processing.
 ## Libraries
 
 - [Processing libraries](https://processing.org/reference/libraries/): The main libraries offered by the foundation.
+- [HYPE Processing Library](https://github.com/hype/HYPE_Processing): A collection of classes, maintained by Joshua Davis, that performs the heavy lifting for you by writing a minimal amount of code.
 - [LeapMotion for Processing](https://github.com/nok/leap-motion-processing): Contributed library to use the Leap Motion in Processing.
 - [Multi-Leap](https://github.com/paluka/Multi-Leap): Use multiple leap motion controllers on the same computer.
 - [OpenCV for Processing](https://github.com/atduskgreg/opencv-processing): A Processing library for the OpenCV computer vision library.
