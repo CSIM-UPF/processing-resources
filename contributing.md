@@ -4,12 +4,12 @@
 
 - [Commits](https://git-scm.com/docs/git-commit) must be written in past tense, and in sentence format:
 
-    ````
-    # good examples
+Good examples
+
     Added list component
     Fixed typo description
-    
-    # bad examples
+
+Bad examples
+
     remove the style declaration
     New Thing
-    ````
