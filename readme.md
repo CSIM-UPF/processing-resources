@@ -32,3 +32,24 @@ Resources for students who wish to learn about Processing.
 
 - [Processing Reference](https://processing.org/reference/): The official Processing language documentation.
 - [OpenCV for Processing Reference](https://atduskgreg.github.io/opencv-processing/reference/)
+
+
+## Example projects
+
+### Art
+
+- [Aaron Koblin - The Sheel Market (2008)](http://www.thesheepmarket.com/)
+- [Jonas Jongejan and Ole Kristensen - Body Navigation (2008)](https://3xw.ole.kristensen.name/works/body-navigation/)
+- [Ryan Alexander - Mycelium](http://onecm.com/projects/mycelium/)
+
+
+### Data visualization
+
+- [Jer Thorp - Kepler Visualization Source Code (2012)](http://blog.blprnt.com/blog/blprnt/data-in-an-alien-context-kepler-visualization-source-code)
+- [Jer Thorp - NYTIMES 365/360 (2009)](http://blog.blprnt.com/blog/blprnt/7-days-of-source-day-2-nytimes-36536)
+
+
+### Interaction and installations
+
+- [HeHe - Champ d'ozone (2007)](http://hehe.org.free.fr/hehe/champsdozone/)
+- [Philip Worthington - Shadow Monsters (2005)](http://worthersoriginal.com/viki/#page=shadowmonsters)
