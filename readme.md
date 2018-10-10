@@ -9,7 +9,7 @@ Resources for students who wish to learn about Processing.
 - [Processing extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Tobiah.language-pde): An extension that adds Processing language support to the [VS Code editor](https://code.visualstudio.com/). Experience of integrated development environments (IDE) required.
 
 
-## Tutorials and Examples
+## Tutorials and code examples
 
 - [Processing examples](https://processing.org/examples/): Examples provided by the foundation.
 - [Processing tutorials](https://processing.org/tutorials/): Tutorials provided by the foundation.
